@@ -1,2 +1,2 @@
-# forex_bot
-Bot for Forex Exchange
+# Bot performance site
+Bot performance site
